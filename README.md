@@ -1,4 +1,4 @@
-Weather App 🌦️
+![image](https://github.com/user-attachments/assets/f0619617-822f-466e-a871-56d2a87beda8)Weather App 🌦️
 A simple, responsive weather application built using HTML, CSS, and JavaScript. This app provides real-time weather information for any city worldwide. Perfect for learning front-end development and API integration.
 Features ✨
 Real-time weather information
@@ -16,7 +16,7 @@ A modern web browser
 API key from OpenWeatherMap (or any other weather API)
 Installation
 Clone this repository
-git clone https://github.com/vaibhav29-ed/weather-app.git
+git clone https://github.com/vaibhav29-ed/WhetherApp
 cd weather-app
 Replace the API Key
 
