@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f0619617-822f-466e-a871-56d2a87beda8)Weather App 🌦️
+Weather App 🌦️
 A simple, responsive weather application built using HTML, CSS, and JavaScript. This app provides real-time weather information for any city worldwide. Perfect for learning front-end development and API integration.
 Features ✨
 Real-time weather information
